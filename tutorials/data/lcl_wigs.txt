@@ -1,0 +1,2 @@
+index	identifier	file	clip	sum_stat	description
+0	ENCFF093VXI	data/ENCFF093VXI.w5	32	sum	DNASE:GM12878
